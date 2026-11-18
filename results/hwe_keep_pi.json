@@ -1,0 +1,46 @@
+[
+  {
+    "name": "HWE reps=1 on 6q keep-pi",
+    "qubits": 6,
+    "params": 24,
+    "err_vs_full_mHa": 18.750492793008,
+    "err_vs_active_mHa": 18.52306627007483,
+    "cx_a2a": 5,
+    "depth_a2a": 15,
+    "cx_line": 5,
+    "depth_line": 15
+  },
+  {
+    "name": "HWE reps=2 on 6q keep-pi",
+    "qubits": 6,
+    "params": 36,
+    "err_vs_full_mHa": 18.558935493826922,
+    "err_vs_active_mHa": 18.33150897089375,
+    "cx_a2a": 10,
+    "depth_a2a": 22,
+    "cx_line": 10,
+    "depth_line": 22
+  },
+  {
+    "name": "HWE reps=3 on 6q keep-pi",
+    "qubits": 6,
+    "params": 48,
+    "err_vs_full_mHa": 2.3395145074189827,
+    "err_vs_active_mHa": 2.112087984485811,
+    "cx_a2a": 15,
+    "depth_a2a": 29,
+    "cx_line": 15,
+    "depth_line": 29
+  },
+  {
+    "name": "HWE reps=4 on 6q keep-pi",
+    "qubits": 6,
+    "params": 60,
+    "err_vs_full_mHa": 0.40886311733867586,
+    "err_vs_active_mHa": 0.18143659440550408,
+    "cx_a2a": 20,
+    "depth_a2a": 36,
+    "cx_line": 20,
+    "depth_line": 36
+  }
+]

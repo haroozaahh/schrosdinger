@@ -1,0 +1,59 @@
+{
+  "rows": [
+    {
+      "name": "JW 6q (drop pi)",
+      "qubits": 6,
+      "n_pauli": 117,
+      "n_groups_qwc": 29,
+      "n_groups_gc": 14,
+      "l1_norm": 3.0646335787812906,
+      "shots_ungrouped": 770316.3007940943,
+      "shots_qwc": 95215.60023077665,
+      "shots_l1_bound": 3668741.7860132116
+    },
+    {
+      "name": "BK 6q (drop pi)",
+      "qubits": 6,
+      "n_pauli": 117,
+      "n_groups_qwc": 38,
+      "n_groups_gc": 14,
+      "l1_norm": 3.0646335787812906,
+      "shots_ungrouped": 770316.3006268847,
+      "shots_qwc": 296444.5138544161,
+      "shots_l1_bound": 3668741.7860132116
+    },
+    {
+      "name": "Parity 4q (drop pi)",
+      "qubits": 4,
+      "n_pauli": 99,
+      "n_groups_qwc": 25,
+      "n_groups_gc": 14,
+      "l1_norm": 3.0213503277141873,
+      "shots_ungrouped": 723566.3169603817,
+      "shots_qwc": 287938.38185027754,
+      "shots_l1_bound": 3565842.8917104006
+    },
+    {
+      "name": "Tapered 4q (drop pi)",
+      "qubits": 4,
+      "n_pauli": 99,
+      "n_groups_qwc": 25,
+      "n_groups_gc": 14,
+      "l1_norm": 3.0213503277141873,
+      "shots_ungrouped": 723566.3163281329,
+      "shots_qwc": 128295.59703230728,
+      "shots_l1_bound": 3565842.8917104006
+    },
+    {
+      "name": "Tapered 6q (keep pi)",
+      "qubits": 6,
+      "n_pauli": 230,
+      "n_groups_qwc": 38,
+      "n_groups_gc": 24,
+      "l1_norm": 8.700948668763855,
+      "shots_ungrouped": 3111259.0061464733,
+      "shots_qwc": 416954.5769468696,
+      "shots_l1_bound": 29572854.584556054
+    }
+  ]
+}
