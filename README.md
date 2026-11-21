@@ -1,1 +1,1 @@
-The code here won the UCL Quantum Society's MiniHackathon.
+The code here won the UCL Quantum Society's Hackathon.
